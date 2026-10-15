@@ -1,24 +1,15 @@
+use std::fs::File;
+//fn main() {
+//    let greeting_file = File::open("hello.txt")?;    
+//}
 
-fn main() {
-    use std::fs::File;
-    use std::io::{self, Read};
+fn main (
 
-    fn read_username_from_file() -> Result<String, io::Error> {
-        let username_file_result = File::open("hello.text");
+    cats: String = "There are cats. They are black and white.";
 
-        let mut username_file = match username_file_result {
-            Ok(file) => file,
-            Err(e) => return Err(e),
-        };
+    last_char_of_first_lines(cats);
+)
 
-        let mut username = String::new();
-
-        match username_file.read_to_string(& mut username){
-            Ok(_) => Ok(username),
-            Err(e) => Err(e),
-        }
-
-        //extra comment
-    }
+fn last_char_of_first_lines(text: &str) -> Option<char> {
+    text.lines().next()?.chars().last()
 }
-

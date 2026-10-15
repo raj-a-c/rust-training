@@ -1,7 +1,6 @@
-use std::cmp::Ordering;
-use std::io;
+use std::{cmp::Ordering, io};
 
-use rand::prelude::*;
+use rand::prelude::*;  
 
 fn main() {
     //prompts user to guess

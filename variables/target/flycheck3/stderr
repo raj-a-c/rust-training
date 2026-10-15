@@ -1,2 +1,4 @@
-    Checking variables v0.1.0 (C:\Users\Rajin Chowdhury\rust-training\rust-training\variables)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.13s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.03s
