@@ -1,15 +1,7 @@
-use std::fs::File;
-//fn main() {
-//    let greeting_file = File::open("hello.txt")?;    
-//}
+fn main() {
+    use std::net::IpAddr;
 
-fn main (
-
-    cats: String = "There are cats. They are black and white.";
-
-    last_char_of_first_lines(cats);
-)
-
-fn last_char_of_first_lines(text: &str) -> Option<char> {
-    text.lines().next()?.chars().last()
+    let home: IpAddr = "127.0.0.1"
+        .parse()
+        .expect("Hardcoded IP address should be valid");
 }

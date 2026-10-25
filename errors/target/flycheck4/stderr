@@ -1,4 +1,2 @@
     Checking errors v0.1.0 (C:\Users\Rajin Chowdhury\rust-training\rust-training\errors)
-error: could not compile `errors` (bin "errors") due to 4 previous errors
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `errors` (bin "errors" test) due to 4 previous errors
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.42s

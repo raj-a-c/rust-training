@@ -1,1 +1,6 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.02s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Checking enums v0.1.0 (C:\Users\Rajin Chowdhury\rust-training\rust-training\enums)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.59s

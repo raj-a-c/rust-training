@@ -1,4 +1,8 @@
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.06s
+    Checking cfg-if v1.0.5
+    Checking rand_core v0.10.1
+    Checking cpufeatures v0.3.1
+    Checking getrandom v0.4.3
+    Checking chacha20 v0.10.2
+    Checking rand v0.10.3
+    Checking restaurant v0.1.0 (C:\Users\Rajin Chowdhury\rust-training\rust-training\restaurant)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 1.64s

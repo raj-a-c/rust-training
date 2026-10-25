@@ -1,1 +1,4 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.02s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Checking structs v0.1.0 (C:\Users\Rajin Chowdhury\rust-training\rust-training\structs)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.56s
